@@ -173,7 +173,7 @@
 /* Chat notification toast */
 "chat_new_messages" = "↓ Nye beskeder";
 /* Chat call information */
-"chat_call_message" = "Opkald,";
+"chat_call_message" = "Opkald, ";
 /* Chat call information */
 "chat_missed_call_message" = "Mistet opkald";
 /* Item present in the menu on long press on message */
@@ -212,9 +212,9 @@
 /* About screen menu */
 "settings_acknowledgements" = "Taksigelser";
 /* Settings screen menu */
-"settings_autodownload_images" = "Hent billeder automatisk";
+"settings_autodownload_images" = "Automatisk downloadede filer";
 /* Settings screen menu */
-"settings_autodownload_images_description" = "Hent automatisk indkommende billeder.";
+"settings_autodownload_images_description" = "Hent automatisk downloadede filer.";
 /* Settings screen menu */
 "settings_notifications_message_preview" = "Notifikations-forevisning";
 /* Settings screen menu */
@@ -409,3 +409,5 @@
 "accessibility_incoming_message_label" = "Besked";
 /* Outgoing message label */
 "accessibility_outgoing_message_label" = "Din besked";
+"chat_is_typing_text" = "skriver...";
+"chat_pending_faux_offline_messages" = "Beskeder der ikke er leveret vil blive sendt, når både du og din ven er online.";
